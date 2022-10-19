@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kklesk
-- 👀 I’m interested in programming and travel
+- 👀 I’m interested in opensource
 - 🌱 I’m currently learning rust and linux driver development
 <!---
 - 💞️ I’m looking to collaborate on 
