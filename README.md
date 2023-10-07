@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kklesk
+- 👋 Hi, I’m klesk
 - 👀 I’m interested in opensource
 - 🌱 I’m currently learning rust and linux driver development
 <!---
